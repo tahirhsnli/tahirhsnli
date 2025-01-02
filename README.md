@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on GoRent project, a modern rental platform.<br>👯 I’m looking to collaborate on .NET-based innovative projects or open-source contributions.<br>🤝 I’m looking for help with cloud-native development and scaling applications with Docker and AWS.<br>🌱 I’m currently learning .NET, Docker, AWS, and advanced system design concepts.<br>💬 Ask me about anything .NET, backend development, or email me at hasanlitahirr@gmail.com.<br>⚡ Fun fact: I can debug code faster than I can make a cup of coffee!
 
 
